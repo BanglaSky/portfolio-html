@@ -1,5 +1,5 @@
 body {
-  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 0px;
 }
 
@@ -196,3 +196,13 @@ text-align: center;
   .profile-content-wrapper h1 {
     color: lightseagreen;
   }
+
+  .gist {
+    width:500px !important;
+    max-height: 500px;max-width: 500px;
+}
+.result-js {
+  float: right;
+  max-height: fit-content; max-width: fit-content;
+  
+}
